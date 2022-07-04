@@ -16,5 +16,5 @@ yarn install
 
 project start
 ```
-npm start
+yarn start
 ```
