@@ -14,6 +14,11 @@ package.json loading
 yarn install
 ```
 
+axios install
+```
+yarn add axios
+```
+
 project start
 ```
 yarn start
